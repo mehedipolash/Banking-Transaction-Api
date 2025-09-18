@@ -1,0 +1,9 @@
+D:\Banking Transaction Api\BLL\bin\Debug\BLL.dll
+D:\Banking Transaction Api\BLL\bin\Debug\BLL.pdb
+D:\Banking Transaction Api\BLL\bin\Debug\DAL.dll
+D:\Banking Transaction Api\BLL\bin\Debug\DAL.pdb
+D:\Banking Transaction Api\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Banking Transaction Api\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Banking Transaction Api\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Banking Transaction Api\BLL\obj\Debug\BLL.dll
+D:\Banking Transaction Api\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,6 @@
+D:\Banking Transaction Api\DAL\bin\Debug\DAL.dll
+D:\Banking Transaction Api\DAL\bin\Debug\DAL.pdb
+D:\Banking Transaction Api\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Banking Transaction Api\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Banking Transaction Api\DAL\obj\Debug\DAL.dll
+D:\Banking Transaction Api\DAL\obj\Debug\DAL.pdb
